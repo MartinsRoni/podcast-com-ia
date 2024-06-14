@@ -30,8 +30,8 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 Utilize os prompts dentro da pasta `prompt` para criar um podcast de forma automatizada para isso 
 
-- Use os prompts de Roteiro no `ChatGPT`
-- Use os prompts de Roteiro gerado pelo chatgpt  no `ElevenLabs`
-- Use os prompts de artes no `Lexica`
-- Elabore uma capa no Canva
+- :pushpin: Use os prompts de Roteiro no `ChatGPT`
+- :pushpin: Use os prompts de Roteiro gerado pelo chatgpt  no `ElevenLabs`
+- :pushpin: Use os prompts de artes no `Lexica`
+- :pushpin: Elabore uma capa no Canva
   
