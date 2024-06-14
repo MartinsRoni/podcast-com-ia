@@ -35,5 +35,5 @@ Utilize os prompts dentro da pasta `prompt` para criar um podcast de forma autom
 - :pushpin: Use os prompts de Roteiro no `ChatGPT`
 - :pushpin: Use os prompts de Roteiro gerado pelo chatgpt  no `ElevenLabs`
 - :pushpin: Use os prompts de artes no `Lexica`
-- :pushpin: Elabore uma capa no Canva
+- :pushpin: Elabore uma capa no `Canva`
   
