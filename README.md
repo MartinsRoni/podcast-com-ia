@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="/img/capa.png"
-    width="300"  
+    width="150"  
 />
 </p>
 
@@ -33,4 +33,5 @@ Utilize os prompts dentro da pasta `prompt` para criar um podcast de forma autom
 - Use os prompts de Roteiro no `ChatGPT`
 - Use os prompts de Roteiro gerado pelo chatgpt  no `ElevenLabs`
 - Use os prompts de artes no `Lexica`
+- Elabore uma capa no Canva
   
