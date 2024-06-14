@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="/imagem/montagem.png"
+    width="300"  
+/>
+</p>
+
 # Projeto Podcast Gerado Por I.A.s
 
 Projeto feito com objetivo de gerar um podcast utilizado ferramentas de IA através de prompts mais trabalados.
