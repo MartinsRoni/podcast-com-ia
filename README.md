@@ -7,6 +7,8 @@
 
 # Projeto Podcast Gerado Por I.A.s
 
+<a href="https://github.com/MartinsRoni/podcast-com-ia/tree/main/output" title="View PDF now"> 📕Clique aqui para acessar o arquivo mp3 e baixe para escutar este podcast que está incrivel</a>
+
 Projeto feito com objetivo de gerar um podcast utilizado ferramentas de IA através de prompts mais trabalados.
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
