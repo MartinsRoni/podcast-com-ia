@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="/imagem/montagem.png"
+    src="/img/capa.png"
     width="300"  
 />
 </p>
